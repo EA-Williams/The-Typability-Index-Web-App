@@ -1,0 +1,1494 @@
+text	typability
+1.5 million visitors will flood Atlanta each day of the Olympics.	-0.554129656681705
+2nd since so many people are out of the office until then.	0.504673779944162
+A Hungarian neuro surgeon said that medical supplies are low.	-0.619168362900259
+A bad thing has been turned into a good thing.	0.741246912391092
+A bit behind on my emails.	-0.00802960884869897
+A definitive basic law will be drawn up within a year.	-0.201278858493535
+A detailed organizational chart is attached.	-0.0368887149109579
+A gift isn't necessary.	-0.968543661111529
+A growing number of US households are joining the middle class.	0.0081287223869202
+A letter is being sent today.	0.725862952458653
+A parliamentary committee will collect the public's comments.	-0.587492574481277
+A report Thursday showed wholesale prices fell 0.1 percent in April.	-0.715522922023832
+A state supreme court judge is expected to rule on the issue shortly.	-0.0761453090764688
+A three-man inquiry team spent months investigating the allegations.	-0.271502522854102
+About 10 Jordanian doctors arrived at the hospital a few days ago.	-0.380474835992032
+About 20 were Americans, but there were also Dutch and Swiss.	-0.363217241506985
+Add a Star Trek convention and sports memorabilia show to the mix.	-0.416698987409897
+All our demographics indicate that is a family audience.	-0.168028950777525
+Allocations will be based on WIC allocations methods.	-0.140691006602874
+Also it appears no payment is required tomorrow.	0.0883709450971018
+Also, regarding the cash flow from Canada.	-0.165883556800204
+Although we are sending this e-mail to you, SportsLine.	-0.609911729300438
+Am I getting a good package?	-0.14562169706304
+Amy Felling should be your contact on the 19th.	-0.0997086971691043
+Amy was let go last Friday here along with another guy.	0.2101475617361
+Amy will be here to cover.	0.564269336954676
+Amy will no longer be here so I will be the only one working on this.	0.685523982513946
+An overwhelming majority do agree on the middle policy.	-0.17174500084214
+And I can't turn my phone on.	-0.375800510460041
+And if he's not, then he doesn't play.	-0.368415232088013
+And leave my school alone.	0.37253965485755
+And maybe for too long we've been underestimating ourselves.	-0.36493400884283
+Andy Fastow will be on a leave of absence from the company.	-0.188735099086004
+Another group of policemen was due to be deployed.	-0.23773107474558
+Antonio Guterres sent a message of condolences to Smith's widow.	-0.808429004091289
+Any other use is expressly prohibited.	-0.387020579742295
+Anything exciting going on today?	-0.158832792113816
+Apparently, BP is using the correct pricing.	-0.374363253972376
+Appointing Jeff as CFO is one important step in that process.	-0.399360055667516
+Are things better for you at home tonight?	0.509307553720319
+Are we ready for this on Monday?	0.177845480858688
+Are you back in town?	0.177025987565636
+Are you being a baby?	0.171888457248452
+Are you feeling better?	0.405727676269014
+Are you getting all the information you need?	0.770291845372165
+Are you going to apply?	0.271057623617399
+Are you going to call?	0.490968072953633
+Are you going to join us for lunch?	0.21429609161684
+Are you in a good mood?	0.225468252098609
+Are you in today?	0.0763428865514819
+Are you on the diet with me?	0.49565186846909
+Are you sure I don't need to be there?	0.236110192837391
+Argentina have called off their two football internationals in Japan.	-0.00622949695781532
+Arkansas called in 32 extra state police to the prison.	-0.380026244493987
+As for your second question, bench Mike Anderson.	-0.333666612895119
+As soon as I get it - I'll forward it to you.	-0.595053456876218
+As soon as anyone does that they can get nailed.	0.609067010263629
+As soon as we are done - we'll give you a call.	-0.27565885640814
+As they used to say of Gandhi, he was a mahatma, a great soul.	-0.568331845544147
+As usual, I will be as candid as I can.	-0.240868085306576
+At 17, he enlisted in the US Navy.	-0.909227433729977
+At least then one person in Denver would be able to get in.	0.43658844613487
+Ava please put it on my calendar.	-0.186626982699703
+Ava, do we need to worry about this?	0.238754415474406
+Ava, please put me on the list.	0.22258262550798
+Avoid starting either back in Week 10 if at all possible.	-0.185786606633175
+Baku's forces had for more than 24 hours been engaged in clashes.	-0.370124607623484
+Barry, hope that you had a great Christmas.	-0.247918040319465
+Be back tomorrow and maybe we can visit.	0.386295049066015
+Because there is traffic.	0.318072346883691
+Before I forget, there is one last change.	0.233385511826213
+Below is the intended version.	0.264792755090011
+Ben could tell him about Pompano.	-0.21025262225912
+Benjamin Gay and Jamel White shared carries in his place.	-0.223161090698304
+Best of luck and stay in touch.	0.442992239579724
+Between 0 and 4 are allowed.	-0.453145106965101
+Binoche welcomed the movie industry to the French riviera.	-0.605154012531237
+Board meeting running long.	0.307593952955849
+Bob, I'll pick San Diego as my winner.	-0.872160255240868
+Bob, I'll take Oakland as my winner this week.	-0.386977918940314
+Both have also promised higher salaries.	0.156287820987361
+Both leading candidates have promised to create jobs.	0.131339369697212
+Both of us are still here.	0.70331530423959
+Both sides had indicated interest in a cessation of hostilities	-0.113767809943076
+Bound to be some media flack on this.	0.596236311336428
+Boy, I couldn't write too much on this thing!	-0.580814474446393
+Bradford has yet to prove himself as a Fantasy player.	-0.262644333514908
+Brady only has five catches this season.	-0.0267965538865615
+Brcko had been proposed as another site for a safe area.	-0.234532287734637
+Brian Mitchell will likely serve as Duce Staley's backup.	-0.840127416890298
+Brian is working this.	0.596434477488884
+Britain earlier organised an evacuation of non-Britons from Sanaa.	-0.973606991872603
+Budget allocation from Glisan has been postponed.	-0.445273929859878
+But I believe answer will be yes.	-0.315722133164562
+But I hope to see you at Kari's house.	-0.257422529332672
+But I would suspect that when Ricky can play, he'll play again.	-0.357204325816972
+But both reports were denied by the southern leadership.	0.0481775287585939
+But he added the list given was still incomplete.	0.318428832517635
+But he couldn't keep it up, coming home in 38.	-0.643692096518535
+But he is expected to play against the Raiders on Sunday night.	0.124043672372892
+But he vows to support any drivers who support the Pacers.	-0.0629301871726984
+But his father likes what he sees from his son's engine.	0.352827487093399
+But it takes time.	0.653999372904366
+But let me know which ones you don't get.	0.224108425037613
+But thank you for the offer.	0.851159968984462
+But the Chiefs might depend on the run, so his numbers may be limited.	-0.030825472283232
+But the pact has not entirely calmed the nation's nerves.	0.0307750443181047
+But there have been so many changes in plans that I'm not surprised.	0.0766400884158374
+But they played down the prospect of a repeat performance.	-0.0221878726688234
+But we should pay them the 4500.	-0.0462206301968479
+Call me anytime for information.	0.644356490609045
+Call me if you have any questions.	0.704510634675501
+Call me to give me a heads up.	0.412885621748306
+Can we have them until we move?	0.386721689701817
+Can you bring these to 49C1?	-1.16031563213899
+Can you call me at home?	0.564653501939109
+Can you do the Gallup contracts as well?	-0.0650300078972476
+Can you get me the Calger letter done?	-0.0446744427193612
+Can you get with Mary and make sure?	0.335966840290737
+Can you help get this cleared up?	0.0708852425161736
+Can you help me here?	0.316462601036063
+Can you help with this one?	0.452652748660828
+Can you please review and get back to Tim?	0.0250943972312939
+Can you resend me the Doyle email from last week?	0.0524846252207243
+Can you rough out a slide on rating agencies?	0.0374308072461334
+Can you supplement the answer to the visa question?	0.00553429643063613
+Can you try this again?	0.333187451920081
+Can you wait until Monday?	-0.108908342005498
+Chad thought we were on a treasure hunt.	0.179577594989524
+Chambers is still too inconsistent to start for most Fantasy teams.	-0.214884409253843
+Charlie Garner will once again be Oakland's feature back.	-0.466161535139862
+Chase back office and their restart plan updates individually.	-0.081085875148369
+Check with Vince Strohmeyer.	-1.00738194444568
+China replaced three ministers on Thursday.	-0.241732835133418
+Chinese President defended the military crackdown on protesters.	-0.445848402227889
+Chris Foster is in!	-0.70292005526662
+Clinton attended the US college basketball finals.	-0.123873402267799
+Clinton has pressed for a multilateral lifting of the embargo.	-0.225629494727173
+Clinton on the other hand, had backed a plan to convince Europe.	-0.0928055313578989
+Clinton said Tuesday he would make an announcement by Thursday.	-0.335704689469618
+Coal switching to NG and power guys stimulating demand.	-0.493430205752615
+Come join the fun.	0.336957288354315
+Confirmed with Mark Taylor.	-0.348826605934658
+Construction on the complex will begin this year.	0.305760913189576
+Contact Lisa Mellencamp on any issues regarding pending litigation.	-0.460615334355125
+Could you please let me know as soon as possible.	0.626131785373567
+Could you see where this stands?	0.455422400678312
+Could you try ringing her?	-0.05748307477207
+Couldn't risk the uncertainty.	-0.857602091757017
+Count me out for this round.	0.710784434419586
+Crestone won't have final measurement until next week.	-0.298761773244925
+Currently, we are focusing our resources on domestic sites.	-0.171991263625128
+David, Cindy and Mary will each report to the Office of the Chairman.	-0.221618992270135
+Davis was listed as questionable on the weekly injury report.	-0.0133877357869859
+Dayne and another second tier RB for one of the above.	-0.107385779746613
+Deportivo have won nothing in their history.	-0.289401426246124
+Derivatives are not new.	-0.317691573942642
+Did he get a signing bonus?	-0.335318478823246
+Did we get ours back?	-0.17914295527719
+Did we plan that?	0.131888223982278
+Did you differ from me?	0.129690873940859
+Did you get this?	0.298601233901344
+Did you mean Oxley?	-0.719880007877555
+Did you not read my first email?	0.094587039854248
+Did you set up my corporate account for me?	-0.10765979141746
+Did you talk to Ava this morning?	0.145096345945863
+Did you tell Steve?	-0.387328640058215
+Diplomats are predicting that the embargo will remain in force.	0.0435136156164308
+Disney was great and I've been to eight baseball games.	-0.0162974854928046
+Do not send small, unsuspecting children to check on my progress.	-0.266213632950679
+Do we have New York sorted out?	-0.437218574452482
+Do we have anyone in Portland?	-0.090655688663206
+Do we know what we need?	0.223470536345549
+Do we need to discuss?	0.00789590323537628
+Do we need to do anything here?	0.490552831417707
+Do you and George have a thing going?	-0.0171213938304122
+Do you have a number for him?	0.335307813759386
+Do you know anything?	0.208347103611336
+Do you know if this has been done yet?	0.456241304394392
+Do you need it today?	0.264274981419952
+Do you need to be there?	0.662421872420019
+Do you still need me to sign something?	0.479332786961004
+Do you want to eat lunch somewhere before?	0.0238207612787339
+Do you want to fax it to my hotel?	-0.00173447742930601
+Doctors gave him 10 years to live at most.	-0.00364873136601832
+Does Dan know about Julia changing groups?	-0.431689499121882
+Does Friday at 10 work for you?	-0.32649274748463
+Don't bother picking him up.	-0.24455551905138
+Don't bother to start him.	-0.131015588545349
+Don't expect Sanders to play anytime soon.	-0.362379682988489
+Don't forget the wood.	-0.0220502693631788
+Don't know how that happened.	-0.0152863602963967
+Don't make me pull tapes on whether you understood our fee.	-0.152224668038594
+Don't they have some conflicts here?	-0.0600762335610723
+Don't use Bennett this week.	-0.527712469993047
+Don't use him this week.	-0.0695319156563516
+Donovan McNabb is one of my starters.	-0.858958802733725
+Doug Chapman will likely get the start in Bennett s absence.	-0.745004228768544
+Drop him if he was on your Fantasy roster.	-0.147740906943209
+Drop him unless you play in a keeper league.	0.0213756291110353
+ENA is not purchasing Westport's gas at this time.	-0.62788018008859
+Eastwood dominated proceedings with his humour.	-0.414327915291726
+Ed Terry is in there twice.	-0.0279958642636969
+Edwards said Chrebet passed the various tests and scans he was given.	-0.477363823994461
+Els rocketed to his first European Tour victory back.	-0.711644841031016
+Email the consent to me.	0.675342063544517
+Emerson Fittipaldi has never had an engine this good.	-0.318830447642127
+England star Paul Gascoigne was one of the recipients of the loans.	-0.645125614165294
+Ernie Els was back to his best.	-0.257988867156988
+Estrada recently returned from Johannesburg.	-0.807081318294775
+Europe has lost a great ally.	-0.00907989510013037
+Evaluating a lease offer on Sonoran project.	-0.556200840782913
+Even if it were approved, Clinton could veto the measure.	-0.132916739195099
+Every Enron employee has an internet email address.	-0.336859432670829
+Expect him to be the Bears featured back for the rest of the year.	0.211826668322636
+Expect him to produce good numbers against New England.	-0.32656575831524
+FYI on the demand letter I signed earlier.	-0.124436693585277
+FYI, would she meet my requirements?	-0.683586364023176
+Fares shown are roundtrip.	-0.321951003683197
+Feel free to use Robinson if he doesn't suffer a setback.	-0.262179808656521
+Finally, I would delete the paragraph about lawyers.	-0.25274337576666
+Following are my comments.	0.352013285755373
+For safety reasons, the turkey will be carved in a private ceremony.	-0.279924695001779
+For those of you that have not signed up, please join us for the Walk.	0.144947472414879
+For those of you who have not paid please get your money tome soon.	0.206209271021042
+Foreign insurance firms can file applications to the ministry.	-0.00968376106648818
+Foreigners have now fled the country since fighting erupted.	-0.233207627533443
+France also was prepared to participate in a UN multinational force.	-0.225375040099552
+France would not join a US military invasion of Haiti.	-0.442593960887685
+French actress Juliette Binoche declared the festival open.	-0.766039238014637
+Fuel is retained in kind from the shippers.	0.316825777580523
+Fuel surcharges, if applicable are included in the fees listed.	-0.127503178672255
+Geez, I sound pathetic.	-0.794258772598014
+Genaro, we have fixed the pricing in our system.	-0.0974762408220116
+Get with David Lund.	-0.416582971001008
+Get with Mary for format.	0.0374358789097699
+Giants due to an ankle injury.	-0.342091918739293
+Giants, but he didn't finish it.	-0.378316514617886
+Give it some time.	0.900386019350242
+Go ahead and notify.	-0.137896672136703
+Go for the dollars.	0.470896906649111
+Gold fell 1.90 dollars from Wednesday's closing price.	-0.785971709381807
+Good luck this week, I can't see any sure things out there.	0.187356497528025
+Good to know it exists.	0.0371150311027872
+Got your back while you pick up wine.	0.251620098830764
+Had a great meeting.	0.397912789280239
+Has Brian had his contract yet?	-0.394270629176565
+Has Dynegy made a specific request?	-1.06126733044556
+Has anyone else heard anything?	0.0805286799358505
+Has it been mentioned yet?	0.104568520254403
+Has your 4th quarter changed?	-0.724432179683223
+Have I mentioned how much I love Houston traffic?	-0.389249968006013
+Have a good evening.	0.425406301813471
+Have a good weekend.	0.397941101482178
+Have a great day!	-0.213739895601447
+Have a great trip.	0.153965574768287
+Have a safe trip!	-0.630930040198504
+Have not added Westport on yet.	-0.440653830987622
+Have you done any deals yet?	0.201079309724919
+Have you talked to Somerholder?	-0.2493245750818
+He agrees that they are not showing the correct equation.	0.313989979081449
+He also ruled out extending the safe areas.	0.181802571777174
+He also suggested it would send a conflicting message to Geneva.	0.0527679337283482
+He beat world number one Greg Norman by six strokes.	-0.384759503761984
+He can be explosive, but he is also erratic.	-0.237018234823915
+He cannot be in two places at once.	0.451079428463427
+He could ping the ball 40 yards with the outside of his foot.	0.148164450686058
+He did not return to the contest, and is listed as day to day.	0.451590892471135
+He did not return to the game, and is listed as day to day.	0.485751129634818
+He did not say when that would be.	0.736343598051524
+He disputed reports that Wheatley would be out four weeks.	-0.488805751931555
+He doesn't want to give the trading positions.	-0.0229281171699916
+He extended Freudian theory into adolescence and adulthood.	-0.807544974967855
+He has developed a good on-field relationship with QB Brad Johnson.	-0.799280895763034
+He has made progress in his recovery and might play this week.	0.467421578688415
+He has recovered from his ankle injury.	-0.106779816995437
+He is already on the job and hard at work on the issues before us.	0.656306610617617
+He is close to full speed, says the Charlotte Observer.	-0.217100178204778
+He is expected to miss six weeks of action due to the procedure.	0.19110553266647
+He is expected to participate in practice.	-0.0138580988133743
+He is expected to play in Sunday's game and is listed as probable.	-0.0846309930626326
+He is expected to play in this week's game.	0.110480075741628
+He is expected to play when the Browns return to action next week.	0.140390771859167
+He is here for a political meeting.	0.472529455581457
+He is listed as day to day.	0.540481916568312
+He is listed as probable for Monday's game against Tennessee.	-0.442982566257178
+He is listed as probable for this week's game.	0.00083334281572686
+He is listed as questionable for this week's game.	0.0632888385667918
+He is one of three Eagles who will be held out of the game.	0.245129954224375
+He is out indefinitely and could miss the remainder of the season.	0.310952474767473
+He is pretty tapped into it all.	0.544663911044697
+He is recovering from a bruised left shoulder.	0.230177330736626
+He is recovering from a left knee injury.	-0.0281010927452027
+He is recovering from a sprained foot.	0.192363636453448
+He is suffering from a strained left shoulder.	0.441417588534846
+He made his mark by campaigning against hospital fraud.	-0.550751895307191
+He played goalie almost the entire game.	0.199201778857931
+He pleaded guilty in February under an agreement with the government.	-0.417237526859856
+He quoted local Yemenis as saying that 43 people had been killed.	-0.376882070150646
+He recently also demanded the resignation of six ministers.	0.0368318918661297
+He refused to elaborate on the delay.	0.103699546850469
+He remains a good Fantasy backup when healthy.	-0.358225809926987
+He said Telecom was still in a position of substantial protection.	-0.193451393046494
+He said he had been surprised to see his name on the list.	0.538104347589844
+He said he saw no damage to the airport.	0.35928867714094
+He said he was not aware he suffered from it.	0.431247017992535
+He said he would learn more about the injury as the week progressed.	0.436047505042163
+He said he would resist all the pressure of time deadlines.	0.543538746546153
+He said police in Dallas were also in favor of fences.	0.0747290900120857
+He said the operating theatres were barely functioning.	-0.430131618609653
+He should still be able to play in the team's next game.	0.353956206013031
+He started Sunday's game and had two catches for 70 yards.	-0.50033921556989
+He was in great shape last night.	0.657609007592749
+He was our best player when he got hurt.	0.470162252533375
+He was playing only his third event on the European Tour.	-0.178692470163169
+He was professor emeritus of human development and psychiatry.	-0.660180005693285
+He was recognized in his field as a pioneer.	-0.32814907876782
+He was replaced by Kent Graham.	-0.456209858578435
+He was very close to achieving his life's goal.	-0.0906660617952633
+He will be evaluated on a day to day basis.	0.085907647408486
+He will be re-evaluated after receiving an injection.	-0.51537737014191
+He won't be too productive if he does play.	-0.0623738559248891
+He would be sorely missed by all who are striving for progress.	0.296618821387648
+He would love anything about rocks.	0.50300733297836
+He wrote numerous books on human development.	-0.233651817732615
+He's a questionable Fantasy player to begin with.	-0.46694436011974
+Here it is again in case you didn't receive it.	-0.0376152333503171
+Here's the September purchase for September.	-0.571242940682146
+Here's the new one.	0.315894543965889
+Here's your Gas Daily pricing.	-0.751946159413177
+Hey TK, how are you doing?	-0.755652038589454
+His abilities will be limited if he does play Sunday.	0.13126847440477
+His current status is day to day.	0.359124377228579
+His party also has its sights on the posts of justice minister.	0.275129519918555
+His return date is unclear.	0.307693133804463
+His status for Thursday's game against Dallas is unclear.	-0.49122239519888
+His status for the Week 11 game against Atlanta is unclear.	-0.25979997023651
+History repeated itself last season when Tenerife beat Madrid.	-0.653304327192629
+Hope all is well.	0.606832358163987
+Hope that all is well in Denver.	0.431824919343697
+Hope that you have a great TG.	-0.0382580655291695
+Hope this message is much better received than yesterday's.	-0.140633891717491
+Hope you guys are doing fine.	0.522451910098661
+Hope you had a good weekend.	0.38666342283006
+Hope your trip to Florida was good.	0.0107747515805985
+Hopefully it cheered you up a bit.	-0.0915190518967578
+Hopefully this can wait until Monday.	0.0498980908235137
+Hours are listed in 24hr format central time.	-0.342366046681649
+Houston time at the Hyatt Regency.	-0.537556385562065
+How are things with you?	0.549813384677737
+How are we handling others in that group?	0.227098181605313
+How can we get these answers?	0.0079391786461686
+How did they get onto our floor?	0.157284353744798
+How did you make sure it was the right set?	0.766893344159508
+How is it going?	0.183206362171186
+How long can you guys shop?	-0.0368762799797174
+How soon do you need it?	0.371029899581096
+How would you explain the difference between the two?	0.135904092688635
+How's the share price?	-0.216639202104159
+However, Jeffers is too risky to start from a Fantasy perspective.	-0.551688711863445
+However, he is expected to play in this week's game.	-0.0957325675894701
+However, he warrants no real Fantasy consideration at this point.	-0.122391346132458
+However, he's no better than waiver wire fodder in Fantasy Football.	-0.439016861624222
+However, he's not worth starting on your Fantasy team.	-0.457801936845456
+However, he's still expected to start in the 49ers next game on Oct.	-0.715630285126876
+I agree since I am at the bank right now.	0.452215067739381
+I agreed terms with Greg.	-0.31125469012829
+I am all about Win-Win here.	-0.443839618273619
+I am all over it.	0.775323828353888
+I am almost speechless.	0.12406917584261
+I am at the lake.	0.726266933474467
+I am fine with this.	0.961747773933305
+I am freaking out!	-0.163689921327044
+I am having problems reconciling with Theresa's invoices.	-0.563271169264791
+I am hoping to complete them today or tomorrow morning.	0.354855747511007
+I am in 50M if you need me.	-0.654462665346835
+I am looking forward to the salad.	0.363179299506913
+I am meeting with my direct reports at 1 to work on recommendations.	0.0538041991399227
+I am monitoring email.	-0.0624413036490999
+I am not aware of any.	0.36352031560147
+I am not concerned with the Brown money.	0.114701099879258
+I am now officially a Blackberry addict.	-0.256677875320039
+I am on a plane, sorry.	-0.0252349267851236
+I am on my way.	0.311890058053362
+I am out of town on business tonight.	0.289114170962194
+I am out of town on business.	0.366145497399112
+I am out of town until Friday.	0.0285446153162536
+I am really not wanting to come back.	0.805867799053527
+I am snowed under and out of the office.	0.72820701306254
+I am sorry you had to come in.	0.709033004803043
+I am staying at a Hotel.	-0.132699294653612
+I am surprised such an incident could not have been prevented.	0.0687560042348681
+I am too, and we are working very hard to turn it around.	0.520770413244305
+I am trying again.	0.376890197513867
+I am unavailable for the 1PM meeting.	-0.758930742025523
+I am walking in now.	0.563195959202138
+I am working on the November producers today as a matter of fact.	0.139395890648853
+I am working with Mary Joyce on that right now.	0.243039669683
+I appreciate you moving so quickly on this.	0.254538572929371
+I believe she gave a television interview in Britain.	-0.216207175672651
+I bet you it will be a strong motor all day, though.	0.119273420419817
+I called my husband at work today just to tell him I loved him.	0.254493233698497
+I can be there within the hour.	0.844024777614138
+I can fill you in on more details later.	0.644765816246029
+I can get them.	0.755973333989045
+I can return earlier.	0.220027860374615
+I can review afterwards and get back to you tonight.	0.37149055502613
+I can't seem to find it.	0.316780727003705
+I can't tell you when he'll be back.	-0.150114302965899
+I cannot figure out where these prices are coming from.	0.56433870127138
+I changed that in one prior draft.	0.109732942980001
+I decided that I am going to stay here!	0.134036228621944
+I didn't expect them to hand over the sites.	0.211809816588237
+I didn't hear from Ginger this week.	-0.102085131815562
+I didn't think we had it.	0.0685591023531175
+I didn't understand we were borrowing them.	-0.0939409395136428
+I do not want to repeat.	0.325486365749902
+I don't have Lost Creek yet - hopefully before you leave.	-0.628167459984464
+I don't have the distraction of taking care of Mimi.	0.00336712205206256
+I don't know that I will be back Monday.	-0.0657568039301721
+I don't think we need to make a big deal of this.	0.547279306429655
+I don't want to even see it in kilometers.	-0.0356815353658747
+I don't want to let my nanny go home if you think you need me.	0.334959104567922
+I doubt that it is forecasted.	-0.0631318298638663
+I encourage each of you to attend or tune in tomorrow.	0.198578470353759
+I forgot one person when we spoke on Friday.	0.196620872600459
+I got the impression that this is a message for internal use.	0.768703661389726
+I guess the next time I'll see you is for Superbowl.	-0.309813699731661
+I had a last minute meeting come up.	0.347137401950006
+I hadn't done that for a while - too busy, I guess.	-0.47907129679092
+I have 2 different ones.	0.186593884539004
+I have 30 minutes then.	-0.145791147879118
+I have a high level in my office.	0.638874888630979
+I have a request.	0.374458327630624
+I have a touch of food poisoning this morning but I may be in later.	0.125921323188687
+I have already approved and forwarded.	0.180144520734546
+I have an AM doctor's appointment.	-0.607980680797775
+I have an electric knife.	-0.110831801036132
+I have been in contact with him, and he is familiar with the issues.	0.475011603767255
+I have been very steady and I should have had a much better score.	0.403574794212695
+I have forwarded to Kelly.	-0.175872855192531
+I have no personal transactions with any Enron entity.	-0.180754556609768
+I have other things to worry about!	0.543472767084693
+I have rates and capacity utilization information ready.	-0.0744068261999886
+I have received your messages and will respond accordingly.	-0.0125380650204989
+I have some more data coming.	0.825180250199838
+I have the option of starting Jim Miller or picking up Chris Weinke.	-0.29529546751853
+I haven't adapted really.	-0.432756756676756
+I haven't had a conversation on this since 1999.	-0.118704696983155
+I haven't really done any studying for it.	0.00630244873667292
+I haven't seen it yet.	-0.144231198154088
+I haven't visited with Stan lately.	-0.572290547414025
+I heard it was at 5?	-0.381736461015714
+I hope everything worked out okay with your rent.	0.32622859680537
+I hope he is having a fantastic time.	0.32807361951582
+I hope that you find these communications informative.	0.35406417971817
+I hope this answers your question.	0.0786734288177282
+I hope this is the last revision for September.	0.289101456038657
+I hope we'll get the game here in Denver.	-0.0726257656669891
+I hope you are feeling better.	0.728135939777134
+I hope you feel better.	0.472744771640632
+I hope you went.	0.209679928816798
+I just faxed copies of the invoices to you.	0.142881899802752
+I just finished faxing everything.	0.168985625503387
+I just had my head in the clouds.	0.568546273478551
+I just tracked down Steve.	-0.159029554998685
+I just want to make sure we're both on the same schedule.	0.437141377480532
+I know he's working on it.	0.302334697852855
+I know my way around the hospital better than I do the stadium.	0.0314151041290689
+I know several who work there.	0.508273777019826
+I know you changed it.	0.546286826805955
+I left a message.	0.411513641667981
+I like Nick and Everett.	-0.449293535594825
+I liked your flag.	0.0516226843652944
+I love you too.	0.595131396098746
+I may take the opportunity to run some errands.	0.136323307509926
+I meant to try and explain, not to redo.	0.216422998864824
+I met my neighbors in the park across the street tonight.	0.120115297764894
+I might have something at the office.	1.05978193416899
+I need a little more stability in my work environment.	0.10230425704514
+I need to go to Stan's office.	0.00161525402868129
+I need to link them up to the Tagg deal.	0.200733406912488
+I need to talk to Tom Carlton, their decision-maker.	-0.486394806462696
+I need your help in putting together a new list.	0.56209475191194
+I need your home cell or whatever.	0.375254753884066
+I plan to be in the office tomorrow.	0.718430496240595
+I see some volume reversing in the system.	0.34796935567569
+I sent it to her.	0.879634754744346
+I short paid the August invoice.	-0.170766225468594
+I should have more info by our meeting this afternoon.	0.509981656640104
+I spoke with Greg.	-0.271362769430694
+I spoke with Lara Robinson this morning.	-0.0702503045580589
+I still believe a September 30 closing is unrealistic.	-0.488111301378151
+I talked to Duran.	-0.090467076000476
+I think Citation should be good now.	0.288837654635666
+I think FMV is probably less than fifty.	-0.615735378919959
+I think I have given the gaffer a decision to make.	0.295729961942547
+I think I played three different courses.	0.143060168349382
+I think I'm OK.	-1.24462270319925
+I think Tim wants to move quickly.	0.00921564398614069
+I think in this case specific is better.	0.545217260169329
+I think it should be fixed now.	0.532423952829095
+I think that Pam Butler called him.	0.0311498457341062
+I think that is the right answer.	0.854150065353655
+I think that we should enforce the agreement.	0.506860589825006
+I think that will help.	0.666905781630154
+I think these will be just fine.	0.790553299422148
+I think this move will not overcome the problem.	0.632164036322115
+I think those are the right dates.	0.975512040669638
+I think we should consider this request.	0.588725374970119
+I think we should put a number on the table.	0.676384460628592
+I think your outlined measures sound fine.	0.158217426120073
+I thought it had gone to all of Enron.	0.168639045363404
+I thought you left to go get breakfast.	0.129492505827906
+I thought you needed him to carry two people.	0.31206130026174
+I thought you were on 6.	-0.0351623085136628
+I told Gary you could make the call.	0.398093072418338
+I told you silly.	0.482915556733431
+I tried that to no avail.	0.197082963883771
+I vote for the latter.	0.733168205883082
+I want to compare the two.	0.506745099532156
+I want to finish the rest of the year.	0.93902011292421
+I want to remind you about our All-Employee Meeting this Tuesday, Oct.	-0.742342461447016
+I want to thank everyone involved.	0.154469452280487
+I wanted to get all of this out of the way before my move.	0.797701492816029
+I wanted to go drinking with you.	0.639812511486687
+I was a bit rusty but I didn't want to miss the elections back home.	0.116481297113364
+I was going to call you but I hate to bother your holiday.	0.430212037621257
+I was out Thurs.	-0.268569457633484
+I was planning on calling you after I saw your revisions.	0.321511389883288
+I was planning to attend.	0.71415522668835
+I was runner-up three times.	-0.162391176755153
+I was selfish in what I did.	0.217739622505727
+I was trying to remember what Bobby said.	0.150168501644821
+I wasn't as prepared as I will be this year.	0.0611768007001408
+I wasn't sure that you received the first e-mail.	-0.340426671754925
+I will add this to the folder and let you know when we get into it.	0.845370332309057
+I will be back Friday.	0.189348678715981
+I will be checking up with Lisa.	0.287690950320345
+I will be out on Friday, but any other day is fine.	0.364111795904289
+I will be taking the first week in December off, though.	0.36418501523738
+I will be there.	1.081551460267
+I will be thinking of you.	0.785920139961235
+I will bring John Brindle.	-0.373970422171233
+I will bring the pillow back tomorrow and get with you then.	0.574169630407102
+I will call in 20 to 30 minutes.	-0.0756922674855067
+I will call you Monday morning to discuss.	0.344472286683511
+I will fax the invoice to you today.	0.395193990277346
+I will follow up with him as soon as the dust settles.	0.537208264470998
+I will get the gathering to Gloria tomorrow.	0.241274407938425
+I will handle this afternoon.	0.545794749210401
+I will if I want to.	0.243822777519081
+I will likely not be available.	0.0686826701332094
+I will need to get you set up in their system prior to Tuesday.	0.0378511467101147
+I will need to have my memory refreshed.	0.294073283007855
+I will not be available.	0.266238335556613
+I will not make the meeting at 1 PM.	0.0245375529126883
+I will review them on Monday.	0.306115782345511
+I will tell them.	0.651053406633147
+I will try and find out.	0.822477695900339
+I will try to expedite payment tomorrow.	-0.0262153918873668
+I will try to make sure I'm in good shape.	0.167792989821143
+I wish he would leave Deerfield alone.	-0.259168653506167
+I won't be home until 6.	-0.578820326209354
+I wonder if RBS is another institution which could move quickly.	-0.33323691625303
+I worked on the grade level promotion.	0.350447670984152
+I would assume this week sometime.	0.683560342207813
+I would be glad to participate.	0.321818959009023
+I would expect an answer ASAP.	-0.598476537264852
+I would like it paid through I Buy It.	-0.557597287984613
+I would like to attend if so.	0.706419291523874
+I would like to be on the list if possible.	0.755109983938384
+I would like to discuss.	0.596135455496593
+I would like to see some of the drivers at our game.	0.761141719994603
+I would love to help you guys with this imbalance.	0.32380772368957
+I would love to take Dawn and Sara riding.	0.0900820903698141
+I would not say I have guaranteed my final place.	-0.0843643306562638
+I would suggest you and Mark address this together.	0.302907430434774
+I wouldn't say I'm 100 percent but I'm darn close.	-0.917655237459495
+I wouldn't worry about coming in today.	0.0703918361534773
+I'll ask, he just came by.	-0.494644105494999
+I'll be up to nine or 10 by Saturday.	-0.773538697053798
+I'll bug Holloway and let you know what he says.	-0.210315466308066
+I'll call you in the morning.	0.378301440553481
+I'll call you when I get to the office.	0.303646576761225
+I'll catch up with you tomorrow.	-0.133452027147517
+I'll come have a beer with you guys later.	0.300121138512407
+I'll email her later tonight.	0.115624238723638
+I'll find someone to do it.	0.11981276966235
+I'll get busy now and hopefully email you later today.	0.041591626346237
+I'll get with him by phone to confirm.	-0.211152740098744
+I'll get you one.	-0.159139250357967
+I'll give him 10.	-0.780563767173713
+I'll give it to you tomorrow.	-0.0797123103801087
+I'll just have her call Tracy.	-0.175268422626834
+I'll keep it in miles.	-0.219478986263149
+I'll keep you posted.	-0.267627934761632
+I'll let you know after lunch.	-0.0241195112433248
+I'll presume it is dead until I hear otherwise.	-0.124700323687434
+I'll probably page you.	-0.485299039915704
+I'll send you a check.	-0.107651715172254
+I'll send you minutes.	-0.248296201395702
+I'll take them one at a time.	0.237198893356958
+I'll take up my problem with weak Scott H.	-0.711290598609106
+I'll talk to you on Monday.	-0.235360848764839
+I'll try and get to this later today.	0.308921057885824
+I'm at the doctor's office, should be in later.	-0.0689308200121613
+I'm fully recovered and back on pace.	-0.0478609871486676
+I'm glad she likes her tree.	-0.0356928190803192
+I'm glad you are involved!	-0.784552715873758
+I'm glad you liked it.	-0.257417729467239
+I'm going to class.	0.0318556379081874
+I'm in Stan's office.	-0.852820172396125
+I'm in a meeting until noon.	-0.151084954596802
+I'm leaving around noon tomorrow to catch a flight.	0.0515161742270212
+I'm looking forward to the long weekend!	-0.290453799376335
+I'm not close enough right now to the discussion.	0.0772903678776272
+I'm not planning on doing anything this week.	0.351185251330159
+I'm not sure if they are issuing any wires at this time.	0.39138622920154
+I'm on a conference call.	-0.258494029309023
+I'm on a plane.	-0.406050639699662
+I'm on my way back there to do so.	0.0979715506008652
+I'm optimistic, yes, but confident, no.	-0.973655182244401
+I'm pleased with my speeds.	-0.216735358260911
+I'm still in Dallas!	-0.872164955667924
+I'm still in FW.	-0.959241347520122
+I'm still learning about the ovals.	0.159482075639275
+I'm taking Wednesday off.	-0.696514944231654
+I'm telling you in advance, so don't act surprised.	-0.44963648692999
+I'm trying to get them billed before the holidays.	0.0977264253466436
+I'm very sorry about that mix up.	-0.11836618345232
+I'm waiting until she comes home.	0.0683623524414477
+I'm working on a liquidity forecast.	-0.573327511129569
+I'm working on your other emails next.	-0.077482863160587
+I've never been to the speedway, but if they come, I will go there.	0.137828313516139
+I've never worked with her.	0.242638068949921
+I've sort of lost track of what all I've received.	-0.401823601999796
+ITT owns the Sheraton hotel chain.	-0.588108383348883
+Ibrahim sent arms and explosives by sea to the Indian west coast.	-0.400018304681003
+If Motley is in we are out of money.	-0.00445177637628413
+If he'll sign no issues with Barclays.	-0.611461265727009
+If it needs to be paid, we will need to add the day to the deal.	0.579480437925899
+If lunch doesn't work then how about coffee?	-0.28520081425155
+If not can I call you?	-0.0257440734548896
+If possible, I'd like to get Amy's opinion.	-0.819874061884445
+If she calls me yet today, I'll let you know.	-0.082513751259593
+If so Whitt is done.	-0.18362080743757
+If so he probably will have to pay back.	0.231925874544069
+If so what was it?	0.102144013243225
+If the Penskes have any luck at all, they could be unstoppable.	-0.310146764521404
+If we don't get it, could be trouble.	-0.127549951653271
+If you have questions, please send an email to Enron.	-0.0543152189317143
+If you need John speak up now.	-0.133621314298682
+In a couple of weeks.	0.356152357062916
+In a meeting with your guys now.	0.340737052727551
+In a separate room, next door.	-0.614989799500448
+In his last years he had been living at the nursing home.	0.494476888949336
+In his third season, Booker has become a superb Fantasy wideout.	-0.540662145850093
+In isolation, all of these things are trivial.	0.170697258495062
+In the end, we chose to keep our traditional method.	0.224212000960682
+Indy time trials begin Saturday.	-0.424141599074702
+Interesting, are you around for a late lunch?	0.0375876433141261
+Iraq is particularly keen on getting rid of the oil embargo.	-0.401065504214352
+Is Cassandra there today?	-0.406344499075847
+Is she done yet?	0.010969459000281
+Is that enough for this week?	0.413318192495732
+Is this cash coming into TW?	-0.273153205934028
+Is this the conference rate?	0.174782766682281
+Is this the only time available?	0.113963924476098
+Isn't that about the way it could happen?	0.105283597810593
+It carries a lot more excitement for the driver.	0.315259150352821
+It doesn't match your spreadsheet.	-0.461277907925443
+It is definitely time to give up on the disappointing wideout.	-0.227722795864992
+It is not a matter of imposing a peace plan on the parties.	0.544228864878703
+It is not surprising.	0.0179569746685085
+It is very unlikely that patrons of tour operators are troublemakers.	-0.181231944310969
+It looks like there are three new demand charges.	0.463200865765586
+It must be accompanied by increased productivity.	-0.378511818624586
+It reads like she is in.	0.373021863233099
+It should save the taxpayers a considerable amount of money.	0.0242421106197221
+It stands to reason that I will eventually win.	0.371659030971318
+It was great to finally meet you.	0.4854188332951
+It was possible to a large extent to agree on some kind of approach.	0.166145896105117
+It was the best dinner table conversation we've had in a long time.	0.410940755958976
+It was very nice.	0.532034732211579
+It wasn't an easy day to play.	-0.299653302789569
+It will all be public someday.	0.0743910332148556
+It will also protect the interest of the businessman.	0.184228756254967
+It will probably be tomorrow.	0.0392022800652952
+It would be great if I could have the files by the 18th or 19th.	-0.049284490192833
+It would be wise to keep him inactive until he is effective in a game.	0.263048621566138
+It would lessen that anxiety that the officers are faced with.	0.259965916321503
+It's a shame to have to miss one or the other.	0.593630767020393
+It's all about making the whole story public.	0.190792285992846
+It's going to be a tough weekend.	0.0851980184317582
+It's going to be ludicrous.	-0.584803663651474
+It's incredibly demanding here.	-0.377956342917796
+It's just very confusing at first.	0.023964419354365
+It's kind of fun to see an old rivalry back again.	-0.14829132826098
+It's not looking too good is it?	-0.12413231303818
+It's not working very well.	0.167444110824688
+It's quite a weekend.	-0.486904517242994
+It's really just technicalities.	-0.510313592940438
+It's still going on - quite boring though.	-0.461002384383346
+It's this issue's featured eBook.	-0.989249892417408
+It's too involved out here on Saturday with everybody qualifying.	-0.535139995451364
+Its revenues last year reached 3.2 billion dollars.	-0.516351128003024
+Jackie Adams is trying to get this done today.	0.228680084947998
+Jacksonville's secondary is thin because of injuries.	-0.482649145731513
+Jan has a lot of detail.	0.20664660019849
+Jan, sorry for the inconvenience.	-0.373378838909534
+Jane, what about this Thursday for lunch?	-0.332679137561683
+Japan's first man in space was a journalist.	-0.116225110118433
+Jason Brookins will start at running back if Allen is inactive.	-0.261069786661267
+Jeff had been serving as chairman and CEO of Enron Industrial Markets.	-0.545160818935362
+Jeff, attached is my resume.	-0.132850293662114
+Jets secondary on Sunday.	-0.377850145392339
+Jiang made the comments in a meeting with Malaysian Prime Minister.	-0.0899401228464264
+Jim please confirm to Vince you are happy.	-0.0215649532633227
+Joel will handle this.	0.448788885713466
+John is out today, but will be back in the office tomorrow.	0.353264328874455
+John this message concerns me.	0.0180643066210864
+John, can you give Konni a call?	-0.716561349558755
+John, please send this to Shelly.	-0.267441034168885
+Jones executive vice president and chief operating officer.	-0.367535337474538
+Jordan is taking her last job, corporate development.	-0.264097798163797
+Juppe arrived in Washington on Wednesday.	-0.552456796129785
+Juppe described Emile Jonassaint as a puppet with no legitimacy.	-0.904962272378005
+Juppe met with the president at the Oval office.	0.0394657831890699
+Juppe said such a force was in the process of being sent to Haiti.	0.126163463946594
+Just bought out Toys R Us.	-0.947379713671524
+Just don't start him against the stifling Ravens defense this week.	-0.288538475381492
+Just in case we haven't invited any of them.	0.0740404590251888
+Just playing with you!	0.0441159161364851
+Just thought you oughta know.	-0.332928886047128
+Just told them I thought it would be impossible.	0.418458252983183
+Just wanted to touch base.	0.664542504010922
+Kay Mann is going to take the lead on this.	0.639779130117275
+Keep him in mind as a No.	-0.324181616515545
+Kim, here's the PSCO website address.	-0.894189385303391
+Kind of like silent fireworks.	0.123940274351761
+Ladies, I am finished with July 01 and everything ties.	-0.28938742883211
+Ladies, here's the revised September purchase.	-0.562213410120787
+Lance and I have the same chance to win.	0.764426501035834
+Last week Ballesteros had 16 pars and two birdies in his final round.	-0.535494901553217
+Last week we reported third quarter earnings.	-0.209987675581615
+Last year I made some mistakes here.	0.439883459975829
+Later works dealt with ethical concerns in the modern world.	0.0616184939034624
+Laveranues Coles will be the top receiver in his absence.	-0.70049800714038
+Lavo called it, never mind though.	-0.137436850061511
+Leaks have indicated that Clinton has narrowed his choice.	0.0920836812981844
+Let Gary Smith know today if you want him.	-0.0714278596156099
+Let me consult my partner and get back with you in the morning.	0.552263921423509
+Let me know either way.	0.555818078729666
+Let me know how I can help.	0.161961152871602
+Let me know if I can be of help.	0.227982933503467
+Let me know if I can help.	0.271137263195881
+Let me know if I miss anything.	0.394415678448194
+Let me know if it doesn't go away.	-0.19818154619843
+Let me know if there are any other problems with this.	0.779782347106629
+Let me know if this is possible or where else I might find these.	0.501034349509612
+Let me know if you can't open it.	0.274709717554692
+Let me know if you do not hear from them in the next couple of days.	0.638432083895814
+Let me know if you have any problems.	0.606649070903649
+Let me know if you have any questions.	0.631101923990094
+Let me know if you have further questions.	0.552931790964566
+Let me know if you have more questions.	0.688263221679979
+Let me know if you need anything else.	0.740382060829827
+Let me know if you need further information.	0.655500817069567
+Let me know if you see any problems with this.	0.618804176477928
+Let me know what you want to do.	0.781394749687354
+Let me know when you get this.	0.728502646298544
+Let me know where you might be.	0.713822820123009
+Let me know which day is good for you.	0.689324496057957
+Let us not invite unnecessary irritants to this relationship.	-0.352626935694427
+Let's have this meeting today or tonight.	0.401448666402691
+Let's leave it until we get going.	-0.0073195377895191
+Let's think out of the box.	0.177873282079307
+Let's wait until Monday.	-0.35429972792908
+Lisa now has everything.	0.322796005825686
+Liverpool always had a knack of bringing people down to earth.	-0.0957758082481735
+Liverpool failed again in when they were beaten at Wembley.	-0.238373501970207
+Look for McCardell to play well this week and catch a lot of passes.	-0.0799695880747766
+Look for him to throw for over 200 yards and a score.	-7.87405622375791e-05
+Look for this trend to continue when he faces the San Diego.	-0.0342649538370433
+Looking for some gift hints from you.	0.185976553064513
+Louis defensive backs should be able to match his downfield speed.	-0.213613853136793
+Louis despite the return of Drew Bledsoe.	-0.838584046789541
+Louis featured back this weekend against the N.	-0.171557384542736
+Louis, posting five catches for 35 yards and two scores.	-0.607016901478306
+Lusinchi is currently in Boston, MA, according to his attorney.	-0.818815009689268
+Lynn checked with Fran and she told her coordinator.	0.0519810716098512
+Lynn, got to the office OK.	-0.504320371355429
+Make sure they are current.	0.862223560684767
+Man I don't want to get sick again.	0.152815041347549
+Mansell has not forgotten what the ovals have meant to him, however.	-0.0126479532274507
+Mansell went on to five Indy-car triumphs.	-1.06880086830207
+Many earlier ceasefire accords have been broken.	-0.254420253851063
+Many townspeople who had gathered earlier on the main road.	-0.0533845592178318
+Marisa sent the invoices.	0.0980314043728199
+Mark, Susan said to go ahead and expense the cell phones.	-0.0462989480957981
+Mark, please take a look and let me know if you have any questions.	0.434353537708982
+Market analysts said that the ratio was rising.	-0.0837092284308542
+Martha Stewart will not be dining with us this Thanksgiving.	-0.30637078786406
+Maybe stuff we do more of next year.	0.230441226166184
+Maybe traffic will be light on Thursday.	-0.100601239495602
+Maybe you can leave early.	0.332473871950372
+Megan, I'm a little too quick for myself.	-0.369863408771947
+Megan, I'm not sure why this is showing up.	-0.141878936588732
+Megan, try this for Phillips.	-0.45002550644051
+Megan, we only bought this on KN for the 30th.	-0.396770961127163
+Met with partners in San Francisco.	-0.61514936111038
+Miami has a bye, so McKnight is obviously not an option.	-0.818862548712304
+Michael has his holiday performance.	-0.119928031453294
+Michael said his day was rotten.	0.0337463285822054
+Michael was great this AM.	-0.417504658756735
+Might include proposals with respect to Alaska.	-0.355338536022167
+Mike Anderson will retain the starting job for now.	0.304276988845864
+Mike got himself a bamboo needle.	-0.108430879089705
+Mike is putting pressure on me.	0.754274565378497
+Mike, are you aware of this?	0.109169554774594
+Mikey is invited also.	-0.0896736850624911
+Miller might have to wait until Sunday.	0.364545087080215
+Milly is a seller.	0.224427789030585
+Mixed signals from APS today.	-0.584937162075385
+Mixed signals from Washington had convinced China.	-0.495153552544916
+Mochrie remained steady in the face of the upheaval.	-0.50742917098624
+Mom, that sounds fine to me.	0.416711643786934
+Money wise that is.	0.468242733326582
+Monitor his progress over the next few weeks.	0.0392067206905068
+Montpellier won the Cup at their first attempt.	-0.562611018320474
+More jobs are to be eliminated this financial year.	0.183267831204178
+More than million landmines lie unexploded in at least 62 countries.	-0.67067285475178
+Moreover we have the feeling that we are finally in our own country.	0.515268037820642
+Most contenders here use his Ford-Cosworth engines.	-0.80075306134881
+Most recent surveys put them in a dead heat.	0.119683889294402
+Mostly a social call.	0.250029183983953
+Mr. Rao, go to Washington but go with dignity.	-0.835259465567148
+Much better than carrying a laptop.	0.309385483789114
+My husband Jeff and I are planning on attending.	0.0365810119712088
+My husband and I are on a waiting list to give blood.	0.180046014720504
+My only constraint is Chad's soccer game at noon.	-0.457745435285838
+My only opportunity is if he cracks or something else happens.	-0.0077641962690995
+Name just one person for each color.	0.616561965172086
+Neal, can you help with this?	0.0144187750151772
+Need anything from Target?	-0.178512441939103
+Need before board meeting.	0.0916687128080656
+Need to watch closely.	0.130452137482827
+Need you or John to step out.	-0.248086759804571
+Neil has been asking around.	0.604011136067028
+Neither player is going to be a clear-cut starter this week.	0.176547360432757
+Never mind, I already deleted it.	-0.115227690162638
+New York's Supreme Court upheld a lower court decision.	-0.868152170686105
+New switches can also be added to the Paging System.	-0.237123693648362
+Newly-signed Tony Simmons might work as the third receiver.	-0.608898036615265
+Next time ask Jim to call me.	0.162007641781588
+Nice weather for it.	0.56638361984109
+Nick makes work fun.	0.194027005256473
+No employment claims for gas or power.	-0.198776764415257
+No need to send to FL.	-0.0344706619946287
+No obligation to pay.	0.0434363962568428
+No problem Maria, please contact Rick.	-0.551675996173758
+No sign of Chuck and not responding to messages.	0.0878000179632017
+No there will be plenty of others.	0.596745533190807
+No, at least not to my knowledge.	-0.238254185757391
+No, just Thursday and Friday of this week.	-0.276035716379258
+Normally we just eat and run.	0.468701828572915
+Northern forces had captured a southern mechanised brigade.	-0.762537381978615
+Not at this time.	0.899203148934651
+Not even in yet.	0.0567697643119048
+Not just 1 to 2.	-0.553904137064796
+Not like you'll get paid for it.	0.0855828689113442
+Nothing new from Mom.	0.0580663265583431
+November 14 works for me.	-0.325659460638704
+Now I know about them.	0.179508434969713
+Now I really feel I'm alive, not like before.	-0.363247451375549
+Now go get washed up for dinner.	0.474486374465271
+OK I thought it was in Washington state.	-0.308430907033669
+OK to make changes, change out original.	-0.134609668139262
+Officials said Thursday that visit would take place on May 26 to 29.	-0.622181699727324
+Okay I'll go for a ticket.	-0.554456506077142
+On Friday the competition proper gets under way.	-0.196045447105224
+On a comparative basis I can't justify more.	-0.465548911753303
+On appeal they were finally placed in Division Two.	-0.0671841244520365
+On my way back.	0.114920874799144
+On the plane, doors closing.	-0.0139913473081693
+Once state owned, Telecom is now half owned by two American companies.	-0.439674217044821
+Once you do, you can never go back.	0.180521092600411
+One assistant and one HR associate.	-0.218571875835513
+One of his accomplices secured a safe landing.	-0.0611241986771108
+One of the Hottest Gifts for Holiday 2001.	-0.585942408120428
+One would have thought I'd have this down pat by now.	0.128284141763129
+Opening on the back nine she birdied the 11th and bogeyed the next.	-0.27408498960535
+Opposition leaders have urged him to call off the visit.	0.107771622608875
+Or are you going to be tied up with dinner?	0.408683831587369
+Or let's get creative.	-0.305808721340585
+Others voting against represented the defense ministry.	-0.223594677289091
+Our advantages have been brought into fuller play.	0.119244081253737
+Our forces are ready to come immediately.	0.0477506169967507
+Our numbers are correct in the system now.	0.409877871708443
+Our politicians are rising to the occasion.	-0.0708904647069633
+Our reform and opening programme has forged ahead.	-0.345506639787133
+Our schedule now calls for critical communication in the afternoons.	0.143693479492298
+Out of office but have people working on info.	0.238071814961037
+Paris had ruled out participation in such an invasion force.	-0.0116325572974298
+Parking at the walk site will be free.	0.711993262915382
+Parts of the city will be closed to private cars.	0.564937873910527
+Peace talks last week in Kirghizstan.	-0.971933147460696
+Penske doesn't let things sit back and relax.	-0.3989992498966
+Penske wouldn't come here without a good idea it would hold up.	-0.233603615532294
+People stuck in traffic on either side of us joined in.	0.244902696609137
+Perhaps there was a glitch.	0.0362429195161959
+Pilot Nick Young said communications at Sanaa airport were excellent.	-0.719337800668861
+Please accept my apology.	-0.353871727818564
+Please call me if you have any questions.	0.668782746752978
+Please call me if you see any problems.	0.509261016756685
+Please call tomorrow if possible.	0.353081485506562
+Please coordinate with him.	0.156026192333839
+Please feel free to add to it if I missed something.	0.270025082053814
+Please forward the backup today if possible so we can review.	0.188142660437871
+Please give me a call.	0.509299126970619
+Please leave it to Brian.	-0.053292415048941
+Please let me know if there is any way that I can help you.	0.570954255399694
+Please let me know if you have any questions.	0.603551738378679
+Please let me know if you learn anything at the floor meeting.	0.650788203819493
+Please let me know if you need any additional information.	0.621415533910763
+Please let me know what days you plan on taking off.	0.606132741729923
+Please let me know.	0.675581046888518
+Please let us know asap.	0.217248979765423
+Please look over and let me know.	0.821177550090413
+Please make sure Bob Kelley is on the list.	0.254236253056688
+Please pass along my thanks, though.	0.129045630399841
+Please re-draft and let me know if there are further discrepancies.	-0.10730110827335
+Please respond if anyone has a different view.	0.115719675969802
+Please send it to both of us.	0.353170901012335
+Please send me an email to let me know.	0.718137706030834
+Please send me an email.	0.525913618132684
+Please send to Gary Smith.	-0.241715959231909
+Please set me, Heidi DuBose, up as their travel arranger.	-0.87049575435179
+Please set something up.	0.40131018038185
+Please stay on top of the security issue.	0.178108248953762
+Police and the alleged bank robbers exchanged fire.	-0.0688936003688343
+Pressure to finish my review!	-0.310521587943505
+Presumably so do you.	-0.566642304265361
+Presuming we can afford headcount?	-0.224178241242284
+Probably can handle Monday PM.	-0.626918753305035
+Probably need to check with HR group providing services.	-0.282623895387967
+Probably will be working.	0.261597176191519
+Profits were up 28 percent for the first quarter of this year.	-0.113618303040479
+Provisional constitution will be voted into law by parliament.	-0.417491340250029
+Public order will be maintained firmly and energetically.	-0.114970870304332
+Purchasing power of US households has been rising.	-0.25861988341589
+Reconfigure the disk layout.	-0.179155258709696
+Referring to his meeting in Washington with US President Bill Clinton.	-0.389974450564522
+Reggie Wayne will start in Pathon's place once again.	-0.576964032812262
+Remember blackberry doesn't work so well at home.	-0.335237005079869
+Reports said Clinton feels the same way.	-0.0150869207707821
+Reserve Heap on your roster this week.	-0.171513175408008
+Richardson is battling a shoulder injury.	-0.055373089541219
+Right back at you.	0.416324676883512
+Rio de Janeiro police freed him after a massive manhunt.	-0.681466097852648
+Rookie Kevin Swayne will move into the starting lineup.	-0.469073536945651
+Rothenberg said the trend in Europe was away from fencing.	-0.623758012858775
+Rumors have him scheduled to attend at least part of the Pacers' game.	-0.300991661229143
+Russian foreign ministry sources said a ceasefire accord was agreed.	-0.494181893767262
+Ruth, I'll send this spreadsheet as I update it.	-0.514993446313961
+Ruth, here is an estimated November purchase.	-0.310138182894279
+Ruth, the market drove us back for the weekend.	0.27437982962848
+Samantha would need around-the-clock care.	-0.605130734096257
+Samantha's problems began 13 years.	-0.90285986440922
+San Francisco was Interconnect meeting.	-0.69642262673966
+Sanaa appeared to be a ghost town with many shops closed.	-0.273591678226168
+Scott is out most of this week on vacation and I'm out next week.	-0.0609623501520394
+Scotty and I will be in NYC.	-0.469166299125326
+See client Help for more information.	0.23781370406194
+See the list below.	0.722556292843241
+See what concerts we have for you in your city.	0.39362109555149
+See you in Enron House when I get back.	-0.112848148674054
+See you next week.	0.188232868452799
+See you on the third.	0.418282637611252
+See, we Americans had gotten sort of distracted.	-0.234998261331663
+Seems unusual to me.	-0.402304291608253
+Seifert said he didn't know if Weinke would practice Thursday.	-0.899945760687951
+Senate ratification would be a matter of humanity.	0.0657432403145647
+Send me your address.	0.361956089937961
+Seve Ballesteros was well satisfied with his first round.	-0.59625863066597
+She called and wants to come over this AM.	0.573581417691431
+She chipped in from 69 feet for a birdie at 17.	-0.579169748541119
+She has a web address.	0.0907275701816506
+She has absolutely everything.	-0.30006377178781
+She has the game tomorrow.	0.610049495963108
+She is a Baylor graduate and is very nice.	0.0448252529905623
+She is most familiar with our computer systems.	0.266062854717199
+She is scheduled to appear in New York on the Maury Povitch Show.	-0.73201528057355
+She is taking over Global Finance Legal.	-0.292735186408352
+She probably won't come next year either.	-0.122963417786311
+She said it would probably be after Jan.	0.0309321902060253
+She started singing along softly with the radio.	0.172919066287749
+She was going to leave at 8 or 9.	-0.19127903986519
+She would hate to see us not get our expense reports paid.	0.221055026799918
+Sheila please talk to Avashe.	-0.470461324179505
+Should systems manage the migration?	-0.0732974902447794
+Should we email this to you or fax to your house?	0.123336099227202
+Shouldn't be too hard though.	-0.296915353339622
+Show your friends how much you care.	0.430495702677864
+Since we're ok on volumes now, it's got to be pricing somewhere.	-0.575418681108437
+So you're ignoring me.	-0.526480734690277
+So, we need to get these resolved.	0.198253922980075
+Soldiers would be in their barracks throughout the weekend.	0.00755053144892648
+Some had witnessed the fighting which erupted a week ago.	0.0526469053436058
+Some members of the council refuse to recognize the progress.	-0.0868965730737657
+Some million shares changed hands on the New York Stock.	-0.13320124313339
+Song was vice minister of the geology and mineral resources minister.	-0.0192985365838073
+Sorry for any inconvenience.	-0.417719494216004
+Sorry for the delay.	0.486481905092471
+Sorry for the unfriendly greeting in the lobby.	0.244227728811954
+Sorry it took so long.	0.460351766468651
+Sorry to keep you in suspense!	-0.234271060400606
+Sounds good to me.	0.658037888178565
+Sources said the officers will be part of the coordination office.	0.433829556405277
+South Korea will send two escort destroyers and men for the maneuvers.	-0.349130241972188
+Southern forces said they had shot down three northern warplanes.	0.00440879205735257
+Spanish football reaches boiling point this weekend.	0.00442328684098652
+Sports fans here are excited.	-0.0638074993776382
+Steve Gilbert is working on this.	0.0976507240151222
+Still hustling to find dollars for the quarter end.	0.0741532053728292
+Still waiting on decision.	0.121507986608797
+Suggest you get facts before judging anyone.	-0.149109504310911
+Suite 2750 in Downtown Denver.	-1.14635019502471
+Sun Jiazheng, 50, takes over as radio, film and television minister.	-0.948689589809674
+Sunday tickets have been on sale for weeks.	0.507855150257034
+Sure was good talking to you this AM.	0.371552422300068
+Surely we can cover this from within Virgo's team?	-0.330066165647095
+TXU is off, everyone else OK.	-1.00791716356025
+Taiwan is to cut tariffs on items.	-0.458257207371941
+Take what you can get.	0.655148009194417
+Talk to you later.	0.767705248273286
+Talk to you soon, Theresa.	-0.379068350822669
+Talk to you soon.	0.538907164433223
+Task has to be completed.	0.335630126768203
+Tax gave us the same feedback.	-0.00631681614937101
+Team Chick hasn't been in the SuperBowl every year for no reason.	-0.487623692878797
+Tell her to get my expense report done.	0.269642779871249
+Tests Monday showed no structural damage to his shoulder.	-0.155077986863939
+Thailand would not be involved.	0.125621634628128
+Thank you again for the evening.	0.637097475729031
+Thank you for all your help.	0.534292404267306
+Thank you for participation, cooperation and support.	-0.0295076440378771
+Thank you for your call.	0.603425756635822
+Thank you for your prompt reply.	-0.14061036951232
+Thank you for your support and generosity.	0.147772984864356
+Thank you for your support.	0.510658187482857
+Thanks - that's what I was hoping it was.	-0.478268309721648
+Thanks I needed that today!	-0.175329015607489
+Thanks again for thinking of me.	0.721556635172006
+Thanks again for your help.	0.504828298614693
+Thanks for all the email.	0.793320439553075
+Thanks for all you are doing.	0.853011229509454
+Thanks for checking with me.	0.728485754329362
+Thanks for keeping your eyes out there on our stuff!	0.0808438142341056
+Thanks for sending this.	0.988050869701925
+Thanks for the quick turnaround.	0.17135377500843
+Thanks for your concern.	0.34408338709989
+Thanks for your help in quickly setting this up.	0.26105268266902
+Thanks for your leadership on this issue.	0.405855352131716
+Thanks so much for the message.	0.646627871680733
+Thanks, I think we have taken care of this.	0.557102455777086
+Thanks, having a good time.	0.404278873728242
+That calendar was enough to put me on a diet.	0.187386257443457
+That is not true.	0.551095115509972
+That is one of the things we are working on.	0.965058252564034
+That makes him a risky start from a Fantasy perspective.	-0.239673504595136
+That must be a lot in kilometers.	0.0179665861951731
+That ranks fifth for the week.	0.26799154894022
+That was how Mansell learned passing was allowed on the oval.	0.09945473465374
+That would be a fitting memorial to those who died.	0.553612302974337
+That would be great.	0.615757210162077
+That would likely be an expensive option.	0.0932379425747935
+That's a fair trade off.	-0.0767163164824206
+That's a lot of dollars.	-0.0703013009046272
+The All-Employee Meeting will be held Tuesday, Oct.	-1.08506260658842
+The Atlanta Hawks held Indiana to the lowest points total ever.	-0.465553311634295
+The Auction this year is hosted by EGS.	-0.34244493594816
+The Azerbaijani enclave Nagorno was torn by further fighting.	-1.06559108696312
+The Columbia mission takes off from the Kennedy space centre.	-0.233241682857531
+The Fed has not taken an official position on the issue.	0.262916030184124
+The French diplomat meanwhile reiterated his condemnation.	-0.638476328311788
+The German slowed down enough to beat Frenchman Cedric Pioline 6-3.	-1.06222895997529
+The Hawks led from late in the first quarter.	-0.0915485192006889
+The House would give them equal treatment with US banks.	-0.232000193734786
+The Japanese justice ministry refused Maradona a visa.	-0.823151006300814
+The Jets will try to control the ball and the clock against the Rams.	0.400497248002873
+The Mercedes engine takes advantage of extra boost.	-0.381466591154161
+The Philippines censorship board voted to cut certain scenes.	-0.813016444945177
+The Portal User IDs and Passwords are created by you.	-0.531019210392564
+The Senate defied President Bill Clinton on Thursday.	-0.705109475496203
+The Senate should approve a 14-year-old treaty.	-0.997997144595192
+The Senate vote undercut him the day before the Geneva talks.	-0.225791893621573
+The Spanish federation has brought forward those fixtures.	-0.249544721820739
+The UN still recognizes Lisbon as the administrator of the territory.	-0.630918780075869
+The accord was due to have come into effect overnight.	0.445422005207885
+The administration had no immediate comment on the vote.	0.231524396372839
+The advantage is enough for Ford motor racing director Dan Rivard.	-0.427562641599091
+The agreement has been approved by the Senate and House.	0.118593144161109
+The alleged offences occurred before Alan Sugar took control.	-0.536952442664636
+The amendment has little chance of becoming law.	0.21678626821149
+The appointments were confirmed by China's parliament.	-0.530909095759578
+The artist assures me it is a turkey.	0.065645076238618
+The aviation college had already trained pilots.	-0.0505110264605476
+The best-of-seven series moves to Indianapolis, Indiana.	-1.01167867638795
+The big tight end has no real value as a Fantasy player.	-0.0972270294467692
+The blasts rocked prominent commercial landmarks.	-0.245138226229801
+The board voted Thursday to lift a ban imposed earlier this month.	-0.170155413630123
+The book will also present details of the economic conditions.	0.217590413418696
+The buses will be identified by their cities of origin.	-0.039853958321676
+The cabinet Thursday approved a revised tariff schedule.	-0.547756423740731
+The cause of the fire was under investigation, police said.	0.275363726375377
+The ceremony was followed by the premiere of the opening film.	-0.0461849069304821
+The charges also cover his relations with advertising companies.	0.216359037206047
+The children will entertain you while you wait.	0.341747646364233
+The city plays host to a visit by US president Bill Clinton.	-0.437984060111033
+The conditions were pretty tough.	0.211312605258359
+The contract is a bit complicated.	0.37527357553334
+The deal was nominated and cut to zero.	0.212933965883544
+The delegation is to visit a metal works.	0.215175514164891
+The directors see significant prospects for growth.	-0.394242917926508
+The dollar lost ground against the major currencies.	0.221008306200354
+The earliest the Jets expect him to return is Dec.	-0.363053142905304
+The election will be clean and pure.	0.678901825290255
+The evacuees included babies and young children.	-0.295645484419282
+The evacuees later boarded a British airliner bound for Gatwick.	-0.674131475699401
+The event reopens debate on the issue.	-0.0655093504360503
+The exercises will be staged in the West and Mid-Pacific region.	-0.604597684667201
+The fighting erupted after a private quarrel.	-0.280672698492076
+The filing concerns various scheduling and balancing rules.	-0.11785346421983
+The film will be shown for the first time.	0.823873290251609
+The first Vietnamese trainee pilots were due to arrive in June.	-0.367532120544454
+The former minister is accused of receiving seven billion lira.	-0.119438389648964
+The four-city tour continues Friday in Kansas City, Missouri.	-0.802227894849925
+The group is making a pilgrimage to the Catholic shrine of Fatima.	-0.35068258408384
+The hospital was hit by electricity cuts.	-0.291826263837654
+The important thing is to keep your feet on the ground.	0.456430237562169
+The informal costs have to disappear.	0.0225574907531293
+The injury is more serious than the Panthers first expected.	0.0123471257975225
+The law enforcement has responsibility for the safety of the public.	-0.192425739875595
+The letters of credit were to cover three agreements.	0.332427809182752
+The loans were allegedly made to players.	-0.096576180220605
+The local forecasters are showing rain for Thanksgiving here.	0.109543501953354
+The majority owner of Telecom is a consortium.	-0.598617117728958
+The matter was still being investigated.	0.493027120932442
+The meeting came days after the entry into Chernomyrdin's team.	-0.572940639815855
+The meeting was very beneficial.	0.184516499038996
+The meteor shower was incredible last night.	-0.0441531652489904
+The military refuses to leave power and restore democracy by May 21.	-0.308208252791638
+The move is also against our law.	0.404747820395019
+The move was a further twist in the long-running dispute.	-0.146494518416706
+The mud was their idea.	0.334863247904663
+The new radio minister was head of the propaganda department.	0.00357935445932052
+The night promised to be long.	0.641120280667118
+The official agency SABA said Wednesday 25 civilians had been killed.	-0.814626809482813
+The old list we had from Sybase no longer exists.	-0.182978662447312
+The only other potential office is EOTT.	-0.288020134210407
+The opposition had plans to hold demonstrations on Monday afternoon.	-0.106573100258251
+The other figure is the top 15 contracts.	0.0459511061087355
+The others raise their eyebrows.	-0.0664135515456496
+The partial list announcement came.	0.119082948583382
+The phones should be on now.	0.475675864440546
+The prime minister is to meet with several Security Council members.	-0.130817919727145
+The profit could then go in part to the labour.	0.300001390005842
+The qualifying continues on the west side of town.	-0.0477214949589754
+The rates would become effective after endorsement by parliament.	-0.169197574578951
+The reality is there is much less of an advantage than people think.	0.394853902213555
+The reigning Indy-car series champion will be among top contenders.	-0.564671487377369
+The reserve receiver is expected to see a specialist this week.	-0.0886347160325123
+The reserve wideout is day-to-day.	-1.07546570736695
+The rest is a byproduct of slapshot.	-0.37453052957584
+The restart was a painful lesson regarding the rules of the race.	0.419336811608485
+The results were expected back Tuesday.	-0.295949322588719
+The riots were started by native Taiwanese.	-0.486170521215496
+The rule was aimed at allowing low-budget teams to be competitive.	-0.150216673371276
+The same prize was offered for the arrest of Abdul Razak Memon.	-0.555429439618062
+The second deal in question which needs to be resolved asap.	0.214904172324866
+The senate would require them to create a US subsidiary.	-0.364575559237011
+The single between the two versions is the treatment of foreign banks.	-0.00555094364003756
+The sooner I get this, the sooner we can get this implemented.	0.376364931347868
+The speedway is faced with some very tough choices.	0.175574525498003
+The spokesman said its role would be to supervise the organisation.	-0.152230100608971
+The statement gave no further details of the incident.	0.294789178703466
+The strategy will be very much the same.	0.0976663549288236
+The team feels confident that Martin will be available.	0.103950569432882
+The team mate says were not interested at this point.	0.315832759547805
+The trip is nevertheless important to set the course for future ties.	0.00819938057300256
+The troops just walked in.	0.223024397364449
+The two leading candidates signed a Civility Pact on Tuesday.	-0.522433836968586
+The volumes tie, so the pricing must be off somewhere.	0.0633197321265607
+The wind was strong and gusting.	0.49590332087723
+Their initial review indicates that the pricing seems low.	0.0971895540500786
+Their key decision maker did not show which is not a good sign.	0.215092803957121
+Then there's the Palm?	-0.63245342572931
+Then we can go to Zainy Brainy.	-0.619435420934581
+Then we lit our candles and just stood there silently, holding them.	0.317638490297348
+There are differing views among the dissident community.	-0.0301134092391489
+There are several business issues outstanding.	0.0716418973895332
+There are some different rules here.	0.745307628510416
+There are some issues on which we agree.	0.727866434063089
+There is a 90 percent chance he is going to win.	0.274745687606594
+There is in fact few differences between the candidates.	0.0506074732316995
+There is no average.	0.53124885689303
+There is now a meeting at 8PM as well.	-0.350179698977984
+There is still a chance there might be modification in Dallas.	0.41102018573286
+There is substantially no difference between us.	-0.0692684684775978
+There was no such accord.	0.448611643591143
+There were 75 evacuees on one plane and 73 on the other.	-0.505123059291237
+There were frequent electricity and water shortages.	-0.0976236303009728
+There will be some better news later today	0.829961838636808
+There's been a shortage of blood in this area.	0.265171740882847
+Theresa - Please resend.	-1.03797425451884
+Theresa, I changed the CIG fuel rate to.	-0.801612583140984
+Theresa, I hope he liked it.	-0.414338008130664
+Theresa, I've redrafted and we're still off, even more now.	-0.656183262726497
+Theresa, don't worry about it.	-0.376276158941197
+Theresa, the formula BP is using is highlighted in red below.	-0.489330111710004
+These are big storms and traffic isn't moving.	-0.103265519316097
+These factors dictate clear limits to the concept of safe areas.	-0.00584609976620832
+They also agreed on using dialogue to settle the issue.	0.106524029831464
+They appear to be coming out of Unify, but I cannot see them.	0.0383622035496041
+They are more efficiently pooled.	0.00282317233290797
+They are specifically concerned about the intercompany notes.	-0.12816240330911
+They are still burning.	0.524617630976287
+They have capacity now.	0.213782730893077
+They have not issued an order yet.	0.381878127854137
+They have to go away and have a think.	0.661706071573775
+They launched a counter attack and retook positions they had lost.	0.271080049394834
+They lost to Nantes after extra-time.	-0.501188725784425
+They may want to discuss with you.	0.43361417905342
+They must not be distributed without our consent.	-0.0974585120287549
+They play Atlanta here Saturday and Sunday afternoons.	-0.387734110315462
+They really must get the money together.	0.59344591718856
+They spent about two hours at Larnaca airport.	-0.56672242466115
+They tend to know who hooligans are and don't sell to them.	0.0818354092270677
+They would play Chile in Buenos Aires.	-0.524688404122865
+They've really caught the fever.	-0.13379165742475
+Things are crazy for sure!	-0.224872980190713
+This came as a shock to me.	0.539678130818949
+This event will be a blast.	0.35609084386836
+This has now become the most pressing story in the capital.	0.553861014154896
+This is a golden moment.	0.355670825441119
+This is a major setback for the rookie.	0.250083867098551
+This is a most unfortunate news release.	-0.0650026407351858
+This is all so unreal.	0.689438373907399
+This is good I think.	0.357565691402439
+This is normal, they always do this.	0.317562167317362
+This is not a good situation to be in without a contract.	0.567971518918887
+This is the crew.	0.595960535225024
+This is the limit.	0.830225933443881
+This is the neatest toy I have had.	0.153528186401198
+This is very sensitive.	0.258732618386832
+This method can be used on individual folders as well.	0.156693655890221
+This needs to go to imbalance between Quantum and Crestone.	-0.351242490979575
+This quarter they are reported separately.	-0.348665426118502
+This seems fine to me.	0.832014688415797
+This time I'm more comfortable and aware of a lot more situations.	-0.031284851861109
+This time, Nigel Mansell will not be left behind on a restart.	-0.276951931384246
+This track stands alone as king of the circuits.	0.186945237132536
+This transaction is expected to close next year.	0.0056762197553941
+This upgrade may take up to 2 hours.	-0.0546311354870399
+This year I can walk and it's so much better.	0.234429380129106
+Thomas has no real value as a Fantasy player.	-0.11469106182585
+Through this account cash flows to corporate.	-0.0564176122808245
+Throw it away and not let it touch your heart.	0.249983330865856
+Thursday works better for me.	0.193055631054126
+Thus have nothing to destroy.	0.222992499978801
+Tiger Woods is set to answer your questions.	0.014998544658917
+Time trials for the May 29 race continue the next two weekends.	-0.285845998643428
+Tonight is my anniversary.	-0.141405390345066
+Toomer has been inconsistent this season.	-0.166287704110577
+Travis is in charge.	0.205941417876413
+Travkin did not receive a specific portfolio.	-0.894024144942376
+Treatment options consist of rest, an injection, or surgery.	-0.346267413105755
+Tricia needs to know if she needs to invoice them or not.	0.430143231147062
+Tried reaching you earlier.	0.214557844559418
+Tried to call but couldn't reach you.	-0.126677531812947
+Trip was good I presume?	-0.385286256838906
+Trow said the profit return was very high.	0.0430624675998347
+Trust me, the men are the ones showing restraint.	0.232788653347182
+Try and re-draft and let me know.	0.0491745311967675
+Try it again and let me know.	0.695307799507788
+Try this one now and let me know.	0.747261993896561
+Two RAF Hercules transport planes airlifted foreign evacuees.	-1.0720504504249
+Two-thirds of our tickets have been sold in the United States.	-0.12933796802957
+Ty needs to work on our model before we could start anything anyway.	0.302937366407112
+US President Bill Clinton favours lifting the embargo.	-0.845292740029735
+US ships will also lead a second task force.	0.00902144639005465
+US vessels will form two separate training units.	-0.427254846885057
+Until he can practice for a couple of weeks, we won't have him.	-0.0318740538448472
+Until we can answer these questions, we cannot terminate anything.	0.179954785482824
+Upon returning to the U.	-0.12055491868732
+Using Stoerner in your starting lineup would be a risky move.	-0.524288314392832
+Valerie, I should have Greeley on Monday for August.	-0.574394346480054
+Valerie, the prices look fine in Sitara.	-0.393204089568529
+Very foggy this morning.	0.324845454168903
+Very truly yours, Acme Costume Co.	-1.0833726238086
+Vietnam planned to upgrade its current fleet of Soviet aircraft.	-0.493207899493452
+Wang said that his release was a miracle.	0.162328197943432
+Wang urged the international community not to forget the prisoners.	0.115338505496474
+Wang was to meet with Clinton's national security advisor.	-0.373705011064814
+Was it a car wreck?	-0.566744741081727
+Was wondering if you and Natalie connected?	-0.0292561123441672
+Washington was not moving toward a unilateral lifting of the embargo.	-0.176478705868621
+Wasn't nearly as bad as I thought.	-0.41766768270777
+Watch for more details, coming soon.	0.196037815080161
+Wayne has not done much yet, so don't put him in your Fantasy lineup.	-0.410869963999995
+We all know that it does exist.	0.226032964371928
+We also decided against a formal seating arrangement.	0.15903950971549
+We are about to leave Heaven!	-0.240996319991808
+We are all doing reasonably well, I think.	-0.19037216803557
+We are all fragile.	0.162824344866174
+We are also in touch with the U.	0.164468351228311
+We are delayed, got another 30 minutes on the runway.	-0.097374569100232
+We are down to 3 employees here in Denver.	-0.29772177287309
+We are going to send some money to a fund to help the victims.	0.357864413960689
+We are happy to give a pay rise.	0.272512995676614
+We are having fun.	0.445681506653647
+We are heartened by the many notes of care and concern.	0.157604614232712
+We are in the process of making a change.	0.827081212699628
+We are looking at military assistance.	0.18470251164051
+We are on a plane coming back.	0.41629303808038
+We are proceeding with a great reception so far.	0.10503821233737
+We are sitting in Weil's offices, waiting to negotiate.	-0.555023833473858
+We are somewhat emasculated bystanders.	-0.334260638958341
+We are waiting on the cold front.	0.609130466784366
+We are working on this as we speak.	0.613052911514479
+We can discuss options early next week.	0.00131810524602673
+We can have wine and catch up.	0.302468701929901
+We can work around these plans if you prefer.	0.405507672244559
+We can work with it either way.	0.49455116797341
+We cleaned him up as well as we could.	0.353746459740118
+We controlled the race from the start and I'm satisfied.	-0.100252259959803
+We could do it at my house.	0.438933190143414
+We currently have 6 employees.	-0.560424808844456
+We don't have any ability to veto their decisions.	-0.102772848089856
+We don't recommend McNair this week as a result.	-0.645742943432144
+We don't recommend you use him in a Fantasy league this week.	-0.404652620069525
+We don't seem to have any positive income there.	0.285243610956646
+We don't want to look bad to Dyn.	-0.320442582851646
+We had a great time!	-0.103456694639878
+We had some measurement of gas from Quantum throughout the month.	-0.254602585739356
+We have been consistent and we have a good balance.	0.366445970016706
+We have been working on clay for four weeks.	0.577121022262915
+We have lost not just a great friend.	0.366104432831099
+We have lots of forks, etc.	-0.291171532029446
+We have lots of paper stuff.	0.422149929934998
+We haven't made that decision here though.	-0.0364289212085082
+We haven't sold the US business as yet.	-0.429280381462252
+We hope you found this information useful.	0.296706737247913
+We just need a sitter.	0.514084111491576
+We just pulled schedules from the web.	0.10509925713451
+We know the engine is capable.	0.267564616951391
+We know this is a big time at the speedway.	0.486136335726261
+We lost 1 player this week who picked Baltimore, sorry.	-0.228588755689265
+We must be consistent.	0.0010653629892313
+We need a process to deal with this.	0.617147696530747
+We need this verified.	0.261208525557907
+We need to bring them along slowly.	0.455438303753609
+We need to talk about this month.	0.738058350249016
+We obviously have a lot to talk about.	-0.00460173702687463
+We only have the power of persuasion.	0.0870053744688603
+We probably have to discuss trade behavior and margin.	-0.175510900155554
+We seem to be running in the same time slot more than anybody other.	0.615038118125834
+We shall try to find a common agenda.	0.335805116402493
+We sold the UK business to AEP.	-0.702923697432843
+We talked quietly while everybody gathered.	-0.41021064726744
+We tried to copy it and it worked for us.	0.490002930423307
+We use this functionality a lot when pathing pools.	-0.263404101264528
+We want a little May madness of our own.	0.0694888124315335
+We were planning to have him from the start.	0.541425604464147
+We will address tomorrow with Stan.	-0.148495341012575
+We will be bringing in lunch and I need to know how many to order?	0.189810403226605
+We will be dining fashionably late.	-0.256006010398998
+We will be managing our rates and we need to plan on software.	0.323246528970602
+We will forward it to you as soon as we get it.	0.489571049398855
+We will get you a copy.	0.228745864963734
+We will have some good detail by January 7.	-0.32632093617386
+We will keep trying.	0.16439340319469
+We will keep you posted.	0.245651104628798
+We will sign tomorrow and fund Tuesday.	-0.137665655567497
+We will work on the car and try to go a little quicker yet.	0.513499368472454
+We would have waited up all night to see them.	0.648361013995172
+We'd suggest playing Brady, who will start against.	-0.392190417626535
+We'll let you know in the morning if we are interested or not.	0.305096320988197
+We'll tell you who has the edge.	-0.149907356859494
+We're here to qualify in the second or third row.	-0.142484099373045
+We're not a lock for the pole.	0.0523801164396745
+We're not adversarial in this, but we want to know what's going on.	-0.254839866896288
+We're not aware of any possible changes at Stanford Stadium.	-0.60634871857552
+We're on the way.	-0.133265058915728
+We're working with the speedway.	-0.088207767240175
+We've advised the family how to go about it.	0.0664520737841451
+We've already eliminated his speech therapy.	-0.477922374747953
+We've pursued other options and as a result we've made some progress.	-0.331985923622784
+Weather is bad here.	0.606472777790262
+Wednesday is definitely a hot chocolate day.	-0.432766205941497
+Weinke could have a big game.	-0.324178460321366
+What a crazy day.	-0.122670428053648
+What a nice note.	0.670441542220937
+What are the units?	0.201883344719406
+What did Mark say?	-0.407488935037635
+What did you and Ava decide to do?	-0.0285303491872042
+What do you hear?	0.214182580047785
+What do you show as the storage schedule?	0.0826894065016807
+What do you think about Tracy and Jim?	-0.0139828675566206
+What do you think?	0.252685521994315
+What does Hunter think?	-0.148580943806842
+What happened to the guy with the paper to sign?	0.368314510870697
+What information, if any, do we owe him?	-0.267455434002249
+What is going on?	0.277691495619265
+What is happening to the stock price?	0.464258446324199
+What is in the plan?	0.31314000001052
+What is the cost issue?	0.383318038944171
+What is the mood?	0.419040243356327
+What is the purpose of this?	0.468049245203605
+What is the shower at Patsy's for?	-0.368058537492112
+What is the status of the Pemex discussions?	-0.330012620025048
+What is the stock price doing?	0.353475562420116
+What is up with ENE?	-0.461356599815192
+What is your issue sir?	0.107462336630931
+What level of detail do you need?	0.181787529507397
+What number should he call you on?	0.354983662508037
+What period does the max rate assumption cover?	-0.117364971546274
+What will happen to this project?	0.278226496297918
+What's your phone number?	-0.295561267784801
+When I do, we will eat.	-0.30677359698969
+When do we review with El Paso?	-0.641970283571613
+When do you have to be there?	0.732934210275383
+When it is used we try and do as many paths as possible.	0.315794726751714
+When the inspection is finished we will communicate those results.	0.388373802374393
+When things get speculative the language always gets scary.	-0.037665187457019
+Where are they hitting the books at?	0.533375179683751
+Where do you want to meet to walk over there?	0.600304380496943
+Whether it will stand up on race day, nobody knows.	-0.198962333733737
+Whether that package is training or material has yet to be determined.	0.204399627150609
+Who should I contact regarding severance?	-0.357171142267285
+Why do you ask?	-0.0498666583603509
+Will 2PM ET work for you?	-1.17610075724595
+Will call later to explain.	0.469805776523515
+Will follow up today.	0.101252420690939
+Will give you more shortly.	0.256171615738922
+Will it be delivered?	-0.140347262805644
+Will let you know how call goes in morning.	0.367337450703796
+Will you and KB be around this afternoon?	-0.079494480592794
+Will you come get me?	0.397797612055819
+Winning here, everybody was more shocked and surprised.	-0.0743768096172871
+Wish me luck with Linda.	-0.0105782350592344
+Wonder what next week will bring.	0.429240403126837
+World Cup fans at Stanford Stadium are almost certain to be fenced in.	-0.557860713185559
+Would you have John send me a message?	-0.036882242571286
+Would you mind taking the lead on this?	0.536237490428761
+Would you please send runner to get this?	0.372592225380945
+X-rays were negative, and Hakim is listed as day to day.	-0.527177762644522
+Yes I am coming twice.	-0.221141078760649
+Yes I am here actually.	-0.0635358011663384
+Yes I like perfume.	-0.231664572710515
+Yes, I am playing.	-0.304418755125117
+You are welcome in Palacios this weekend, of course.	-0.34215618575827
+You can bring it to work and we could meet for lunch one day.	0.607927162792787
+You can explain this to me next week or over the weekend.	0.485868992240734
+You can have all the horsepower and it won't matter.	0.274765026621998
+You can reply via email.	0.055399635189568
+You can talk to Becky!	-0.484561039869322
+You can't bench Martin, no matter how bad the matchup may be.	-0.4207698403548
+You can't destroy us, and you can't stop us.	-0.407972880151121
+You get in traffic and you have dogfights and I forget I'm on an oval.	-0.33856644832979
+You had to maintain your patience to get the job done.	0.373705673305747
+You have 15 active players.	-0.127903783927599
+You have 6 active players at position WR.	-0.582186541738122
+You have a lot of holes in your plan.	0.494210863458885
+You have a nice holiday too.	0.409387778380027
+You haven't seen 120 in some time.	-0.198635195701693
+You just can't work without me can you?	-0.0260451949261661
+You know that I love you.	0.3627165095597
+You must therefore take full responsibility for virus checking.	-0.0891745167559903
+You snooze, you lose!	-0.85195381349045
+You will never be able to put them out.	0.690340530168639
+You'll have to forward that home for dad to see.	0.205843598298596
+You'll receive the brand new Palm OS v4.	-1.17317060779284
+You're down by 5 and need to score in 4 plays or less.	-0.212576635337735
+Your best bet is to drop him and go after another.	0.510232829022091
+Your fax was busy for a while.	0.106920452378088
+Your friend's defense, however, has other plans.	-0.60899828434952
+Your prompt attention is appreciated.	-0.0451673478614031
+Your voice cheered me up.	-0.0957366193964243
+Zack Crockett may be used in goal-line situations.	-0.76074695399619
+Zou, I hope you had a good flight back to Texas.	-0.450291870891068
