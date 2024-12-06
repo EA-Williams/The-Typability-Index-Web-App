@@ -934,7 +934,18 @@ ui <- fluidPage(
       # conditional description
       conditionalPanel(
         condition = "!output.showGroupingOptions",
-        p("This app calculates typability scores for text data and allows you to group items based on different criteria. Start by choosing an input source, then calculate typability.")
+
+        p("Welcome to the Typability Index Web App!"),
+
+        tags$div(
+          "The accompanying manuscript is currently under review but can read the pre-print ",
+          tags$a(href="https://osf.io/preprints/psyarxiv/qxuv5",
+                 target="_blank",
+                 "here.")),
+        p(),
+        p("This app calculates typability scores for text data and allows you to group items based on different criteria. Start by choosing an input source, then calculate typability."),
+        p(),
+        p("This version of the tool is for non-commercial research purposes only.")
       ),
 
       # density plot of groupings, only when groups have been suggested
