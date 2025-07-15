@@ -11,7 +11,23 @@ dhakal_typs <- read_tsv(here("data", "dhakal_typabilities_post_both_filters.txt"
   rename(text = sentence,
          typability = typability_z)
 
-#  function to calculate the predictor variables
+# function to standardise symbols
+standardiseSymbols <- function(sentencesDF) {
+
+  sentencesDF <- as.data.frame(sentencesDF)
+
+  sentencesDF <- sentencesDF %>%
+    mutate(across(1, ~ .x %>%
+                    str_replace_all("\u00A0|\u202F", " ") %>%           # non-breaking & narrow no-break spaces -> space
+                    str_replace_all("[\u2013\u2014\u2212]", "-") %>%    # en/em dash, minus sign -> hyphen
+                    str_replace_all("[\u2018\u2019\u02BC]", "'") %>%    # curly apostrophes -> straight
+                    str_replace_all("[\u201C\u201D\u00AB\u00BB]", "\"") %>% # curly and angled quotes -> straight
+                    str_replace_all("\u2026", "...") %>%                # ellipsis -> ...
+                    str_replace_all("\u00D7", "x")                      # multiplication sign -> 'x'
+    ))
+}
+
+# function to calculate the predictor variables
 calculatePredictorVariables <- function(sentencesDF) {
 
   # wants only a 1d df with the first column as sentences
@@ -760,7 +776,9 @@ ui <- fluidPage(
         p(),
         p("This app calculates typability scores for text data and allows you to group items based on different criteria. Start by choosing an input source, then calculate typability."),
         p(),
-        p("This version of the tool is for non-commercial research purposes only.")
+        p("This version of the tool is for non-commercial research purposes only."),
+        p(),
+        p("Note: If your input text contains common symbols not insertable by a US QWERTY keyboard, these will be converted to their keyboard variants. Minus signs, en-dashes, and em-dashes will be converted to hyphens; curly apostrophes will be converted to straight apostrophes, curly and angled quotes will be converted to straight quotes, ellipsis will be converted to \"...\", and multiplication signs (×) will be converted to \"x\".")
       ),
 
       # density plot of groupings, only when groups have been suggested
@@ -836,6 +854,7 @@ server <- function(input, output, session) {
       # for uploaded text
       req(input$input_file)
       text_data <- readLines(input$input_file$datapath)
+      text_data <- standardiseSymbols(text_data)
       predictors <- calculatePredictorVariables(text_data)
       typability_scores <- calculate_typability(predictors)$typability
       scored_text(data.frame(text = text_data, typability = typability_scores))
