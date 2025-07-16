@@ -12,11 +12,11 @@ dhakal_typs <- read_tsv(here("data", "dhakal_typabilities_post_both_filters.txt"
          typability = typability_z)
 
 # function to standardise symbols
-standardiseSymbols <- function(sentencesDF) {
+standardiseSymbols <- function(text) {
 
-  sentencesDF <- as.data.frame(sentencesDF)
+  text <- as.data.frame(text)
 
-  sentencesDF <- sentencesDF %>%
+  sentencesDF <- text %>%
     mutate(across(1, ~ .x %>%
                     str_replace_all("\u00A0|\u202F", " ") %>%           # non-breaking & narrow no-break spaces -> space
                     str_replace_all("[\u2013\u2014\u2212]", "-") %>%    # en/em dash, minus sign -> hyphen
@@ -551,67 +551,116 @@ suggest_groups <- function(text_with_scores,
     return()  # stop the execution here
   }
 
-
   if (grp_type == "matched") {
 
-    # assign a group to every item (temporarily), based on sorted typability
     suggested_groups <- text_with_scores %>%
       arrange(typability) %>%
       mutate(temp_group = (row_number() - 1) %% num_grps + 1)
 
-    # calculate start and end positions of the final items that will be selected
     positions <- calculate_start_end_matched(total_itms, num_grps, grp_size)
 
-    # add 'selected' column based on start and end
     suggested_groups <- suggested_groups %>%
       mutate(selected = row_number() >= positions$start &
-               row_number() <= positions$end)
-
-    # adjust group assignment to ensure the first group starts with 1
-    suggested_groups <- suggested_groups %>%
+               row_number() <= positions$end) %>%
       mutate(group = if_else(selected, temp_group, NA_integer_),
-             # calculate adjustment for the first group
              adjustment = if_else(selected, (group[which(selected)[1]] - 1) %% num_grps, NA_integer_),
-             # apply adjustment to group
              group = if_else(selected, ((group - adjustment - 1) %% num_grps + 1), NA_integer_)) %>%
       select(-adjustment) %>%
       mutate(group = factor(group))
 
-
   } else if (grp_type == "divergent") {
 
-    # calculate start and end positions for divergent groups
     positions <- calculate_start_end_divergent(total_itms, num_grps, grp_size)
 
-    # initialise the selected column in the suggested_groups dataframe
     suggested_groups <- text_with_scores %>%
       arrange(typability) %>%
       mutate(temp_group = ntile(typability, num_grps),
              selected = FALSE)
 
-    # loop through each group and set selected based on positions
     for (i in 1:num_grps) {
       group_start <- positions$start[i]
       group_end <- positions$end[i]
 
-      # if gap size is zero, handle start and end adjustments accordingly
       if (i > 1 && positions$start[i] == positions$start[i - 1]) {
         group_start <- positions$end[i - 1] + 1
         group_end <- group_start + grp_size - 1
       }
 
-      # update the selected column for the current group
       suggested_groups$selected[seq_len(nrow(suggested_groups)) >= group_start &
                                   seq_len(nrow(suggested_groups)) <= group_end] <- TRUE
     }
 
-    # assign groups
     suggested_groups <- suggested_groups %>%
       mutate(group = factor(if_else(selected, temp_group, NA_integer_)))
-  }
+
+  } else if (grp_type == "median") {
+
+
+    suggested_groups <- text_with_scores %>%
+      arrange(typability) %>%
+      mutate(row_id = row_number())
+
+    # find the central index (or two middle ones)
+    mid <- ceiling(total_itms / 2)
+    half_size <- floor(grp_size / 2)
+
+    # calculate start and end around the median
+    start_index <- max(1, mid - half_size)
+    end_index <- min(total_itms, start_index + grp_size - 1)
+
+    # handle edge case where end goes past total rows
+    if ((end_index - start_index + 1) < grp_size && start_index > 1) {
+      start_index <- max(1, end_index - grp_size + 1)
+    }
+
+    suggested_groups <- suggested_groups %>%
+      mutate(temp_group = NA_integer_,  # placeholder
+             selected = row_id >= start_index & row_id <= end_index,
+             group = factor(if_else(selected, 1L, NA_integer_))) %>%
+      select(-row_id)
+
+  } else if (grp_type == "divergent_clusters") {
+
+    # Step 1: Add row order to restore later
+    text_with_scores <- text_with_scores %>%
+      arrange(typability) %>%
+      mutate(row = row_number())
+
+    # Step 2: Run k-means clustering
+    set.seed(42)  # for reproducibility
+    km <- kmeans(text_with_scores$typability, centers = num_grps)
+
+    # Step 3: Assign cluster as temp_group, and calculate distance from centre
+    suggested_groups <- text_with_scores %>%
+      mutate(temp_group = km$cluster,
+             selected = FALSE,
+             dist_to_centre = abs(typability - km$centers[temp_group]))
+
+    # Select top N closest items per cluster
+    suggested_groups <- suggested_groups %>%
+      group_by(temp_group) %>%
+      arrange(dist_to_centre, .by_group = TRUE) %>%
+      mutate(selected = row_number() <= grp_size) %>%
+      ungroup()
+
+    # Relabel groups in ascending typability order for consistency
+    cluster_order <- suggested_groups %>%
+      group_by(temp_group) %>%
+      summarise(mean_typability = mean(typability)) %>%
+      ungroup() %>%
+      arrange(mean_typability) %>%
+      mutate(new_group = row_number())
+
+    cluster_map <- setNames(cluster_order$new_group, cluster_order$temp_group)
+
+    suggested_groups <- suggested_groups %>%
+      mutate(group = if_else(selected, cluster_map[as.character(temp_group)], NA_integer_),
+             group = factor(group)) %>%
+      arrange(row) %>%
+      select(-row, -dist_to_centre)
 
   return(suggested_groups)
-
+  }
 }
 
 
@@ -638,8 +687,6 @@ calculate_start_end_matched <- function(total_items, num_groups, group_size) {
   # return start and end
   return(list(start = start, end = end))
 }
-
-
 
 
 calculate_start_end_divergent <- function(total_items, num_groups, group_size) {
@@ -686,9 +733,6 @@ calculate_start_end_divergent <- function(total_items, num_groups, group_size) {
   return(positions)
 }
 
-
-
-
 # Shiny UI
 ui <- fluidPage(
 
@@ -699,7 +743,7 @@ ui <- fluidPage(
       # radio buttons to select input source - upload / dhakal
       radioButtons("input_choice", "Choose Input Source",
                    choices = c("Upload my own text" = "upload",
-                               "Use Dhakal sentences" = "dhakal"),
+                               "Use Dhakal's (2018) sentences (n = 1418)" = "dhakal"),
                    selected = "upload"),
 
       # conditional UI to reset file input when "Upload my own text"  selected again
@@ -717,11 +761,19 @@ ui <- fluidPage(
 
         # radio buttons to select grouping type
         radioButtons("grouping_type", "Grouping Type",
-                     choices = c("Matched" = "matched",
-                                 "Divergent" = "divergent"),
+                     choices = c("Matched (2+ groups)" = "matched",
+                                 "Divergent - simple (2+ groups)" = "divergent",
+                                 "Divergent - clusters (2+ groups)" = "divergent_clusters",
+                                 "One group around median" = "median"),
                      selected = "matched"),
 
-        numericInput("num_groups", "Number of Groups", value = 2, min = 2, step = 1),
+        conditionalPanel(
+
+          # show num groups only when median is not checked
+          condition = "input.grouping_type != 'median'",
+
+          numericInput("num_groups", "Number of Groups", value = 2, min = 1, step = 1)
+        ),
 
         # group size input
         conditionalPanel(
@@ -774,7 +826,7 @@ ui <- fluidPage(
                  target="_blank",
                  "here.")),
         p(),
-        p("This app calculates typability scores for text data and allows you to group items based on different criteria. Start by choosing an input source, then calculate typability."),
+        p("This app calculates typability scores (as z-scores) for text data and allows you to group items based on different criteria. Start by choosing an input source, then calculate typability."),
         p(),
         p("This version of the tool is for non-commercial research purposes only."),
         p(),
@@ -927,6 +979,14 @@ server <- function(input, output, session) {
         theme_minimal() +
         scale_color_brewer(palette = "Set1")
     })
+  })
+
+  observeEvent(input$grouping_type, {
+    if (input$grouping_type == "median") {
+      updateNumericInput(inputId = "num_groups", value = 1)
+    } else if (input$num_groups == 1) {
+      updateNumericInput(inputId = "num_groups", value = 2)
+    }
   })
 
   # download results as CSV -----------------------------------------
